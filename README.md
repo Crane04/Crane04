@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Crane
-- 👀 I’m interested in Robotics and Web Development
-- 🌱 I’m currently learning Arduino and JavaScripr
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mayowa Yusuf
+- I’m interested in Software Development
+- 🌱 I’m currently learningJavaScript
+- 💞️ I’m looking to collaborate on Websites or Apps Development.
 - 📫 Reach me @mayowayusuf3004@gmail.com
 
 <!---
