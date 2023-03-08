@@ -1,5 +1,5 @@
 Hi, I'm Mayowa Yusuf;
-A Fullstack Web and Desktop Applications developer
+I'm a Website(Front and Backend) and Desktop Applications developer
 
 I'm Currently learning Machine Learning and Data Science
 I code in Js, Python and PHP;
