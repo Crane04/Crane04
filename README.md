@@ -1,5 +1,5 @@
 Hi, I'm Mayowa Yusuf;
-I'm a Website(Front and Backend)
+I'm a Backend Developer
 
 I'm Currently learning Machine Learning and Data Science
 I code in JavaScript and Python
