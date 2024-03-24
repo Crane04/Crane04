@@ -1,8 +1,7 @@
 Hi, I'm Mayowa Yusuf;
-I'm a Backend Developer
+I'm a Backend - Fullstack Developer
 
-I'm Currently learning Machine Learning and Data Science
-I code in JavaScript and Python
+I code in JavaScript and Python, and leverage on Frameworks like Django, DRF, NodeJS and ReactJS
 
 Looking forward for collaborations on Software development;
 You can reach me on encrane@gmail.com <br>
