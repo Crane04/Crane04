@@ -1,10 +1,10 @@
 Hi, I'm Mayowa Yusuf;
 I'm a Backend - Fullstack Developer
 
-I code in JavaScript and Python, and leverage on Frameworks like Django, DRF, NodeJS and ReactJS
+I code in JavaScript and Python, and leverage on Frameworks like Django, DRF, NodeJS and ReactJS <br>
 
-Looking forward for collaborations on Software development;
-You can reach me on encrane@gmail.com <br>
+Looking forward for projects and collaborations on Software development; <br>
+You can reach me on mayowayusuf3004@gmail.com <br>
 Phone Number : +2349114081137 <br>
 <a href="https://wa.me/+2349114081137">WhatsApp</a>
 
